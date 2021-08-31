@@ -2,7 +2,7 @@
 
 - Hoje trabalho com backend/frontend em RoR
 - Estou aprendendo RoR, Vue, ReactJS
--Me contate: paulo-ricardo-abreu@hotmail.com
+- Me contate: paulo-ricardo-abreu@hotmail.com
 
 <div>
   <a href="https://github.com/Paulo-Abreu">
